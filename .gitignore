@@ -1,0 +1,7 @@
+__pycache__/
+.feat_cache_*.npz
+.feat_pert_*.npz
+.oof_*.npz
+model_aug.pt
+sim_output/
+sim_test/

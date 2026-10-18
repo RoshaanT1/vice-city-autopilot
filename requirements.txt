@@ -1,0 +1,8 @@
+torch>=2.0
+torchvision>=0.15
+numpy>=1.24
+pillow>=9.0
+pandas>=1.5
+pygame>=2.1
+scikit-learn>=1.2   # training only
+# tested with: torch 2.14.1+cpu, torchvision 0.29.1+cpu, numpy 2.4.6, pillow 12.3.0, pandas 3.0.6, pygame 2.6.1, scikit-learn 1.9.1
